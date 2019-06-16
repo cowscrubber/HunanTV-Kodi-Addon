@@ -7,7 +7,9 @@ Included in this addon are the following channels:
 - Hunan Vision
 - Golden Eagle Documentary
 
-The stream scraped by this addon is accessible for free in http://www.mgtv.com/live.
+This works with PseudoTV Live. The original code by Romanvm did not work with PseudoTV.
+
+The stream used in this addon is accessible for free in http://www.mgtv.com/live. 100% legal as far as I can tell.
 
 This is only tested to work on Kodi 18.1 Leia. I do not know if this will work in other versions as of this writing.
 I am in no way warranting the reliability of this addon.
@@ -16,6 +18,3 @@ I am in no way warranting the reliability of this addon.
 This is based on "Simple example plugin for Kodi mediacenter" by Romanvm.
 
 License: [GPL v.3](http://www.gnu.org/copyleft/gpl.html)
-
-
-PS. I hoped this would work with PseudoTV Live, but it doesn't. If anyone can tell me how to fix this, I'll be very grateful.
