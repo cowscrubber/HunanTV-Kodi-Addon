@@ -183,7 +183,8 @@ def list_videos(category):
         list_item.setProperty('IsPlayable', 'true')
         # Create a URL for a plugin recursive call.
         # Example: plugin://plugin.video.example/?action=play&video=http://www.vidsplay.com/wp-content/uploads/2017/04/crab.mp4
-        url = get_url(action='play', video=video['video'])
+        ##original code## url = get_url(action='play', video=video['video'])
+        url = video['video']
         # Add the list item to a virtual Kodi folder.
         # is_folder = False means that this item won't open any sub-list.
         is_folder = False
