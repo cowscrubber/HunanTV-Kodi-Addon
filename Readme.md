@@ -1,6 +1,6 @@
 # Hunan TV Kodi Addon
 
-Hunan TV (Chinese TV) live streaming addon. This scrapes the streaming URL from the MGTV website.
+This addon streams the Chinese TV network Hunan TV. This scrapes the streaming URL from the MGTV website.
 Included in this addon are the following channels:
 - Hunan International
 - Hunan Entertainment
