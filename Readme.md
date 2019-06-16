@@ -7,8 +7,11 @@ Included in this addon are the following channels:
 - Hunan Vision
 - Golden Eagle Documentary
 
-This is only tested to work on Kodi 18.1 Leia.
+The stream scraped by this addon is accessible for free in http://www.mgtv.com/live.
+
+This is only tested to work on Kodi 18.1 Leia. I do not know if this will work in other versions as of this writing.
 I am in no way warranting the reliability of this addon.
+
 
 This is based on "Simple example plugin for Kodi mediacenter" by Romanvm.
 
